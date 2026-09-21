@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术论文写作"
+  short_description: "提炼论文核心贡献，组织研究故事，改善篇章衔接与专业学术表达"
+  default_prompt: "使用 $academic-writing 根据提供的稿件与写作要求，提炼核心认识，组织论文故事，并改善篇章衔接与学术表达。"
