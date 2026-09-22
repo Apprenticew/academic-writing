@@ -33,9 +33,13 @@ If the focus is unspecified, the skill presents these four options before readin
 
 未说明修改重点时，skill 先展示这四项，收到作者选择后再读稿；可以多选。已有明确要求时，直接沿用，不重复询问。
 
-Each option is applied only when selected, including defensive language. No editing category is enabled by default, and passages that already work can stay as they are.
+Each option is applied only when selected, including defensive language. No editing category is enabled by default. Clear, effective passages stay intact; reviewing the whole paper does not mean rewriting every paragraph.
 
-四项均只在选中后处理，包括防御性写作。不设置默认必改项，已有有效表达可以保留。
+四项均只在选中后处理，包括防御性写作。不设置默认必改项；已有清楚、有效的表达应保留，全文检查不意味着每段都要改写。
+
+Where revision is needed, the skill encourages explicit transitions, connective words, adverbs, and clauses that help human readers follow the argument. It favors complete, connected sentences and preserves the context and emphasis readers need, even when this takes a few more words.
+
+在需要修改的位置，鼓励充分使用过渡语、连接词、副词、从句和状语从句，帮助人类读者理解关系、把握重点。保留有始有终的完整表达，避免短促、孤立的单句；为说明关系而适当增加字数是允许的。
 
 ## 🚀 Usage · 使用
 
