@@ -1,27 +1,33 @@
 # Academic Writing · 学术论文写作
 
-An academic writing skill for shaping research stories, highlighting contributions, and refining scholarly prose.
+An academic writing skill with four selectable areas: reducing defensive language, improving logical flow, refining academic expression, and shaping research stories and structure.
 
-面向研究者的学术论文写作技能：围绕核心贡献组织故事，改善篇章衔接，并以专业、有重点的语言呈现研究价值。
+面向研究者的学术论文写作技能，提供四类可选方向：减弱防御性写作、改善逻辑关联、改善词语与学术表达、改善故事与篇章组织。
 
-Start with what readers should remember, then organize the problem, key ideas, experiments, and findings so that each section advances their understanding.
+Choose the focus, text range, and extent of revision for the current task. The capabilities below are options, not a checklist to apply to every manuscript.
 
-从读者应当记住的认识出发，安排问题、关键思路、实验与发现，使每一节推进理解，让摘要、引言和讨论充分表达工作的意义。
+先确定本轮修改重点、覆盖范围和改动幅度。下面列出的是可选择的能力，不是每次都要全部执行的清单。
 
 **Language / 语言：** This README is bilingual. The skill instructions are written in Chinese and support discussion and revision of Chinese and English manuscripts.
 
 本 README 为中英文对照说明；skill 指令以中文编写，可用于中英文稿件的写作讨论与修订。
 
-## What it helps with · 适用任务
+## Choose a focus · 选择修改重点
 
-| Task | 任务 | Focus / 重点 |
+| Option | 功能 | Focus / 重点 |
 |---|---|---|
-| Research story and contributions | 故事与贡献提炼 | Clarify the central insight and its significance. / 提炼核心认识，突出重要性与独特价值。 |
-| Drafting and section revision | 论文起草与章节改写 | Organize abstracts, introductions, results, discussions, and related work. / 组织摘要、引言、结果、讨论与相关工作。 |
-| Logic and academic language | 逻辑与语言精修 | Improve conceptual order, transitions, emphasis, and terminology. / 改善概念顺序、句间关系、重点表达与术语一致性。 |
-| Revision from feedback | 写作意见落实 | Apply feedback to the relevant passages within the requested scope. / 在指定范围内，将反馈落实到相关段落。 |
-| Repeated revision | 多轮修订 | Revisit recurring feedback and address unresolved reading difficulties. / 回看重复反馈，解决尚未消除的阅读障碍。 |
-| Concision | 篇幅压缩 | Remove repetition while preserving useful context and transitions. / 减少重复，保留必要上下文与承接。 |
+| 1. Defensive language | 减弱防御性写作 | Reduce unnecessary self-deprecation and preemptive justifications. / 减少无必要的自我削弱、预先辩解和防御性铺垫。 |
+| 2. Logical flow | 改善逻辑关联 | Improve transitions, emphasis, and connections between sentences and paragraphs. / 改善句段承接、连接词、副词、重音和前后呼应。 |
+| 3. Academic expression | 改善词语与学术表达 | Refine awkward or colloquial wording using natural disciplinary language. / 改善生硬、口语化的措辞和搭配，使用自然的领域表达。 |
+| 4. Research story and structure | 改善故事与篇章组织 | Clarify contributions, the role of experiments, and the progression of concepts and sections. / 改善贡献表达、实验叙述、概念顺序与章节组织。 |
+
+If the focus is unspecified, the skill presents these four options before reading the manuscript and waits for the author's selection. Multiple options can be combined. A clear existing request does not need to go through the menu again.
+
+未说明修改重点时，skill 先展示这四项，收到作者选择后再读稿；可以多选。已有明确要求时，直接沿用，不重复询问。
+
+Each option is applied only when selected, including defensive language. No editing category is enabled by default, and passages that already work can stay as they are.
+
+四项均只在选中后处理，包括防御性写作。不设置默认必改项，已有有效表达可以保留。
 
 ## Usage · 使用
 
@@ -47,9 +53,13 @@ Provide the manuscript or research materials and describe the task, including an
 
 > 使用 $academic-writing 阅读稿件，提炼最值得读者记住的核心认识，分析当前故事哪里平淡或割裂，给出贡献表达与章节推进的具体改法。
 
-Adapt phrasing to the author's requirements and the manuscript's style.
+Choose light edits or more substantial revision when the extent is unclear and would affect the approach. Reviewing the whole manuscript does not automatically mean applying every option or restructuring the paper.
 
-具体句式和措辞按作者要求与稿件风格调整。
+改动幅度尚未明确且会影响改法时，再选择小改或大改。全文修订只表示覆盖范围，不自动启用全部功能或重构文章。
+
+Length limits, established structure, and previous feedback guide the selected work; they are not additional default workflows.
+
+篇幅要求、已认可的结构和历史反馈作为修订约束处理，不另设默认执行的流程。
 
 ## Installation · 安装
 
