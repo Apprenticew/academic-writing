@@ -1,15 +1,15 @@
-# Academic Writing · 学术论文写作
+# ✍️ Academic Writing · 学术论文写作
 
-- **还在为 AI 反复添加无谓的自我辩解、把贡献越写越弱而头疼？**  
+- 🛡️ **还在为 AI 反复添加无谓的自我辩解、把贡献越写越弱而头疼？**  
   Tired of AI weakening your contribution with unnecessary caveats and preemptive justifications?
 
-- **每句话单看都懂，连起来却缺少逻辑，读完仍不知道重点在哪里？**  
+- 🔗 **每句话单看都懂，连起来却缺少逻辑，读完仍不知道重点在哪里？**  
   Does every sentence make sense on its own, yet the paragraph leaves you wondering how the ideas connect and what matters most?
 
-- **明明想要专业、自然的论文表达，得到的却是生硬搭配和口语化总结？**  
+- 🖋️ **明明想要专业、自然的论文表达，得到的却是生硬搭配和口语化总结？**  
   Asking for natural academic prose, only to get awkward phrasing and summaries that sound like casual conversation?
 
-- **实验做了不少，论文却像工作汇报，读者依然看不出你究竟发现了什么？**  
+- 🧭 **实验做了不少，论文却像工作汇报，读者依然看不出你究竟发现了什么？**  
   Have you done the experiments, yet your paper still reads like a progress report that leaves the central insight buried?
 
 **Academic Writing** 将这些困扰整理成四类可选的修改方向。你决定重点改什么、改动多大，再让 AI 针对问题动笔，让文章的逻辑、表达和研究价值更清楚。
@@ -20,7 +20,7 @@
 
 本 README 为中英文对照说明；skill 指令以中文编写，可用于中英文稿件的写作讨论与修订。
 
-## Choose a focus · 选择修改重点
+## 🎯 Choose a focus · 选择修改重点
 
 | Option | 功能 | Focus / 重点 |
 |---|---|---|
@@ -37,7 +37,7 @@ Each option is applied only when selected, including defensive language. No edit
 
 四项均只在选中后处理，包括防御性写作。不设置默认必改项，已有有效表达可以保留。
 
-## Usage · 使用
+## 🚀 Usage · 使用
 
 Provide the manuscript or research materials and describe the task, including any constraints on structure, length, or editing scope. In Codex, invoke the skill with `$academic-writing`.
 
@@ -69,7 +69,7 @@ Length limits, established structure, and previous feedback guide the selected w
 
 篇幅要求、已认可的结构和历史反馈作为修订约束处理，不另设默认执行的流程。
 
-## Installation · 安装
+## 📦 Installation · 安装
 
 Place this repository's contents in a folder named `academic-writing` under either your project's `.agents/skills/` directory or your personal `~/.agents/skills/` directory. For a project installation, the entry file should be `.agents/skills/academic-writing/SKILL.md`.
 
@@ -77,7 +77,7 @@ Place this repository's contents in a folder named `academic-writing` under eith
 
 See the [official skill documentation / 官方技能文档](https://learn.chatgpt.com/docs/build-skills) for discovery and invocation details.
 
-## Repository layout · 仓库结构
+## 🗂️ Repository layout · 仓库结构
 
 ```text
 academic-writing/
@@ -102,7 +102,7 @@ academic-writing/
 
 [SKILL.md](SKILL.md) 根据任务选择相关指导；同类问题在多轮修改中反复出现时，[多轮修订](references/revision-review.md)帮助回看原始意见并定位尚未解决的问题。
 
-## Writing references · 写作参考
+## 📚 Writing references · 写作参考
 
 - [Jennifer Widom — Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html#abstract)
 
@@ -120,7 +120,7 @@ academic-writing/
 
 [参考资料说明](references/writing-guides.md)概括两篇文章的用途。五个问题用于检查内容和组织思路，成稿的段落数与贡献形式由论文需要及投稿规范决定。
 
-## License · 许可
+## 📄 License · 许可
 
 This repository is distributed under the [MIT License](LICENSE). Copyright © 2026 Honghan Wang.
 
