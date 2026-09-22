@@ -1,12 +1,20 @@
 # Academic Writing · 学术论文写作
 
-An academic writing skill with four selectable areas: reducing defensive language, improving logical flow, refining academic expression, and shaping research stories and structure.
+- **还在为 AI 反复添加无谓的自我辩解、把贡献越写越弱而头疼？**  
+  Tired of AI weakening your contribution with unnecessary caveats and preemptive justifications?
 
-面向研究者的学术论文写作技能，提供四类可选方向：减弱防御性写作、改善逻辑关联、改善词语与学术表达、改善故事与篇章组织。
+- **每句话单看都懂，连起来却缺少逻辑，读完仍不知道重点在哪里？**  
+  Does every sentence make sense on its own, yet the paragraph leaves you wondering how the ideas connect and what matters most?
 
-Choose the focus, text range, and extent of revision for the current task. The capabilities below are options, not a checklist to apply to every manuscript.
+- **明明想要专业、自然的论文表达，得到的却是生硬搭配和口语化总结？**  
+  Asking for natural academic prose, only to get awkward phrasing and summaries that sound like casual conversation?
 
-先确定本轮修改重点、覆盖范围和改动幅度。下面列出的是可选择的能力，不是每次都要全部执行的清单。
+- **实验做了不少，论文却像工作汇报，读者依然看不出你究竟发现了什么？**  
+  Have you done the experiments, yet your paper still reads like a progress report that leaves the central insight buried?
+
+**Academic Writing** 将这些困扰整理成四类可选的修改方向。你决定重点改什么、改动多大，再让 AI 针对问题动笔，让文章的逻辑、表达和研究价值更清楚。
+
+**Academic Writing** offers four focused ways to improve an AI-assisted draft. Choose what needs work and how far to revise, then use the skill to make your reasoning, language, and contribution clearer.
 
 **Language / 语言：** This README is bilingual. The skill instructions are written in Chinese and support discussion and revision of Chinese and English manuscripts.
 
