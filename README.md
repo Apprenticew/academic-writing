@@ -94,6 +94,7 @@ academic-writing/
     ├── storycraft.md
     ├── sections.md
     ├── language.md
+    ├── latex.md
     ├── writing-guides.md
     └── revision-review.md
 ```
@@ -105,6 +106,10 @@ academic-writing/
 [SKILL.md](SKILL.md) selects references according to the task. [Repeated revision guidance](references/revision-review.md) helps revisit original feedback when the same problems persist across revisions.
 
 [SKILL.md](SKILL.md) 根据任务选择相关指导；同类问题在多轮修改中反复出现时，[多轮修订](references/revision-review.md)帮助回看原始意见并定位尚未解决的问题。
+
+[LaTeX delivery conventions](references/latex.md) define the output format and the commands that must be preserved when the manuscript is a LaTeX source.
+
+[LaTeX 交付约定](references/latex.md)规定 LaTeX 稿件的输出形态与必须原样保留的命令。
 
 ## 📚 Writing references · 写作参考
 
